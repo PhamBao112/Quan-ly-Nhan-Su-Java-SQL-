@@ -1,0 +1,12 @@
+# Bỏ qua thư mục biên dịch của Maven
+target/
+
+# Bỏ qua các file cấu hình IDE cá nhân
+nbproject/
+.settings/
+.classpath
+.project
+
+# Bỏ qua log và database tạm
+*.log
+*.sqlite
